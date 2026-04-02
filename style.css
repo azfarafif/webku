@@ -1,9 +1,11 @@
-body
-{
- background-color:(233, 222, 221);
+body{
+ background-color#f3f3f3;
+ color:#333;
+ width:100%;
+ font-family: "Trebuchet MS";
+ margin:0 auto;
 }
 
-p 
-{
-  font-family: "Trebuchet MS";
+.header{
+  ;
 }
